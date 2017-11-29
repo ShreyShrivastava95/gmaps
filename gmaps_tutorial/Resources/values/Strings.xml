@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">gmaps_tutorial</string>
+
+  <string name="google_maps_key">AIzaSyClvd3c9NT5iKTXB9l8G_kj1OTjxld2Fd0</string>
+</resources>
